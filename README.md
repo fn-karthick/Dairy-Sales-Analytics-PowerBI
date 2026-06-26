@@ -105,13 +105,13 @@ Provides a detailed analysis of product performance and customer demand.
 
 ## Executive Overview
 
-<img width="1338" height="793" src="YOUR_IMAGE_LINK"/>
+<img width="1338" height="793" alt="Page1" src="https://github.com/user-attachments/assets/98a35df7-c4dc-46af-b6e9-cc8ebf6024fd" />
 
 ## Product & Customer Insights
 
 This page provides detailed insights into product performance, customer demand, inventory status, and sales channels. It enables stakeholders to identify high-performing products, evaluate regional demand, optimize inventory planning, and support informed business decisions.
 
-<img width="1337" height="791" src="YOUR_IMAGE_LINK"/>
+<img width="1337" height="791" alt="Page2" src="https://github.com/user-attachments/assets/41e2a7b3-0ea5-478b-a871-fb7eaa4f61a6" />
 
 # Business Insights
 
