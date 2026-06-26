@@ -159,7 +159,7 @@ git clone https://github.com/fn-karthick/Dairy-Sales-Analytics-PowerBI
 
 3. Refresh the dataset if required.
 
-# 📌 Key Skills Demonstrated
+# Key Skills Demonstrated
 
 - Business Intelligence
 - Dashboard Design
@@ -171,13 +171,13 @@ git clone https://github.com/fn-karthick/Dairy-Sales-Analytics-PowerBI
 - Business Analytics
 - Storytelling with Data
 
-# 👨‍💻 Author
+# Author
 
 **Karthick Raja P**
 
-🎓 Final Year Electronics & Communication Engineering
+Final Year Electronics & Communication Engineering
 
-📊 Aspiring Data Analyst
+Aspiring Data Analyst
 
 ### Skills
 
@@ -187,4 +187,4 @@ git clone https://github.com/fn-karthick/Dairy-Sales-Analytics-PowerBI
 - Excel
 - Machine Learning
 
-⭐ If you found this project useful, consider giving it a **Star** on GitHub!
+If you found this project useful, consider giving it a **Star** on GitHub!
